@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+#user-list {
+    margin-bottom: 20px;
+}
+
+#user-list li {
+    list-style: none;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#add-user-form {
+    margin-bottom: 20px;
+}
+
+#add-user-form input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
